@@ -25,3 +25,34 @@ section {
   padding: 10px 40px;
   border-radius: 5px;
 }
+.change {
+  text-align: center;
+  padding-left: 10%;
+}
+.my-mission {
+  display: flex;
+}
+.again-half-size {
+  text-align: center;
+  padding-left: 20%;
+}
+.img-edit {
+  width: auto;
+  height: 5.5em;
+  vertical-align: top;
+}
+.bg-color {
+  background-color: rgb(195, 221, 231);
+  border-radius: 10px;
+  width: 300px;
+}
+.bg-color1 {
+  background-color: thistle;
+  border-radius: 10px;
+  width: 300px;
+}
+.bg-color2 {
+  background-color: wheat;
+  border-radius: 10px;
+  width: 300px;
+}
