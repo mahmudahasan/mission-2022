@@ -63,3 +63,9 @@ section {
   background-position: left;
   background-size: 300px;
 }
+.develop1 {
+  background-image: url(images/shapes/shape-3.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 200px;
+}
