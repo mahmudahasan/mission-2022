@@ -69,3 +69,6 @@ section {
   background-position: right;
   background-size: 200px;
 }
+.line {
+  border-left: 5px solid orange;
+}
