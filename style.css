@@ -13,6 +13,7 @@ section {
 .half-size {
   width: 50%;
   padding-left: 10%;
+  margin-top: 50px;
 }
 .half-size img {
   width: 50%;
@@ -55,4 +56,10 @@ section {
   background-color: wheat;
   border-radius: 10px;
   width: 300px;
+}
+.develop {
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 300px;
 }
